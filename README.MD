@@ -6,7 +6,7 @@ Grieving is a Unity game exploring the eerie and atmospheric concept of liminal 
 
 This project was developed using Unity version **6000.0.51f1**.
 
-If you need to open the project in Unity Hub, you can use this link:  
+If Unity Hub doesn’t automatically recognize this version, please copy and paste the following link directly into your browser: 
 `unityhub://6000.0.51f1/01c3ff5872c5`
 
 # Getting Started
