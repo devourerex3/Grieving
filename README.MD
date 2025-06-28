@@ -1,6 +1,6 @@
 # Grieving
 
-**Grieving** is a Unity game exploring the eerie and atmospheric concept of *liminal places* — those in-between spaces that evoke a feeling of unease, nostalgia, and mystery.
+Grieving is a Unity game exploring the eerie and atmospheric concept of liminal places — those in-between spaces that evoke a feeling of unease, nostalgia, and mystery.
 
 # Unity Version
 

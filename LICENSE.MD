@@ -1,6 +1,6 @@
 MIT License (Custom Terms)
 
-Copyright (c) [Year] devourerex3
+Copyright (c) [2025] devourerex3
 
 Permission is granted to use, copy, and modify the code of this project under the following conditions:
 
